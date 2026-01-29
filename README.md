@@ -268,7 +268,7 @@ This repository includes:
 
 **Ibrahim Ayomide Fayomi**  
 Cybersecurity Professional  
-[LinkedIn](#) | [Portfolio](#)
+[LinkedIn](https://www.linkedin.com/in/fayomi31/)
 
 ## License
 
